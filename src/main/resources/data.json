@@ -1,0 +1,27 @@
+[
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "description": "Ambientada durante la Revolución Francesa, esta novela de Charles Dickens explora la vida y el sufrimiento de distintas clases sociales a través de personajes inolvidables: Charles Darnay, un aristócrata que reniega de la opresión de su clase; Lucie Manette, símbolo de compasión y esperanza; el Dr. Alexandre Manette, cuya experiencia en la prisión refleja las heridas personales causadas por la tiranía; y Sydney Carton, cuyo sacrificio final es un acto de redención moral. Dickens alterna escenarios entre París y Londres para contrastar violencia y calma, injusticia y amor. La obra combina intriga, crítica social y gran intensidad emocional, y examina cómo la venganza colectiva puede devorar tanto a inocentes como a culpables, proponiendo al mismo tiempo la posibilidad de transformación personal mediante el amor y la entrega."
+  },
+  {
+    "title": "The Little Prince (El Principito)",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "Escrita como una fábula poética, 'El Principito' es una obra breve que trasciende edades: bajo la aparente sencillez de un cuento infantil se ocultan reflexiones profundas sobre la soledad, la amistad, el sentido de la vida y la naturaleza humana. La historia sigue a un aviador perdido en el desierto que conoce a un niño venido de otro planeta; a través de sus conversaciones conocemos los viajes del principito por distintos asteroides y las figuras alegóricas que encuentra —el rey, el vanidoso, el bebedor, el hombre de negocios— que satirizan aspectos de la sociedad adulta. Con aforismos memorables y un tono melancólico, la obra recuerda la importancia de ver con el corazón, valorar los lazos afectivos y conservar la mirada curiosa e inocente de la infancia."
+  },
+  {
+    "title": "The Alchemist (El Alquimista)",
+    "author": "Paulo Coelho",
+    "description": "Narración alegórica sobre la búsqueda de los sueños, 'El Alquimista' cuenta la travesía del joven pastor andaluz Santiago, quien abandona su vida cotidiana para seguir una repetida visión: encontrar un tesoro junto a las pirámides de Egipto. En su viaje Santiago aprende lecciones espirituales sobre el lenguaje del mundo, la escucha del propio corazón y la 'Leyenda Personal' —la misión vital que cada persona debe perseguir. A lo largo del camino encuentra mentores, enfrenta dudas y descubre que el verdadero aprendizaje está en el proceso de transformación interior, no sólo en el destino. Con un estilo directo y simbólico, Coelho combina misticismo, filosofía práctica y motivación, ofreciendo un relato que ha inspirado a millones a reflexionar sobre propósito, coraje y confianza en el flujo de la vida."
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (Harry Potter y la piedra filosofal)",
+    "author": "J. K. Rowling",
+    "description": "Primer libro de la saga que convirtió a Harry Potter en un fenómeno global. La historia presenta a Harry, un huérfano que descubre en su undécimo cumpleaños que es un mago y que ha sido aceptado en Hogwarts, la escuela de magia. Entre lecciones, amistades y peligros, Harry empieza a comprender su pasado y la amenaza que representa el oscuro mago Voldemort. Rowling construye un mundo rico en detalles: criaturas fantásticas, castigos escolares, partidos de quidditch y una arquitectura académica que recuerda a los internados británicos, todo impregnado de una mezcla de humor, misterio y temas universales como el valor, la lealtad y la lucha contra el mal. La novela equilibra aventura juvenil con emociones profundas, haciendo atractiva la lectura para niños y adultos."
+  },
+  {
+    "title": "And Then There Were None (Y no quedó ninguno)",
+    "author": "Agatha Christie",
+    "description": "Considerada una de las novelas de misterio más célebres de Agatha Christie, 'Y no quedó ninguno' plantea una trama claustrofóbica y brillante: diez personas son invitadas a una isla remota por un anfitrión desconocido y, una a una, empiezan a morir en circunstancias que parecen reproducir una vieja rima infantil. A medida que la paranoia crece, los sobrevivientes se enfrentan a la posibilidad de que el asesino sea alguno de ellos mismos. Christie despliega una construcción de suspense impecable, pistas falsas y un ritmo que mantiene la tensión hasta el final; además explora la culpa, la justicia y la fragilidad moral. La resolución, ingeniosa y controversial en su momento, consolidó el libro como un clásico del género policial y un estudio sobre la psicología del miedo."
+  }
+]
