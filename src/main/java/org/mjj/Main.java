@@ -26,14 +26,14 @@ public class Main {
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
     }
-
-    List<Book> loadBooks() {
+/*
+    List<BookDTO> loadBooks() {
         ClassPathResource resource = new ClassPathResource("data.json");
 
         try {
             InputStream inputStream =  resource.getInputStream();
             ObjectMapper objectMapper = new ObjectMapper();
-            List<Book> books = objectMapper.readValue(inputStream, new TypeReference<>() {});
+            List<BookDTO> books = objectMapper.readValue(inputStream, new TypeReference<>() {});
 
             return books;
         } catch (IOException e) {
@@ -42,7 +42,7 @@ public class Main {
             return List.of();
         }
     }
-
+*
     @Bean
     CommandLineRunner loadBooks(VectorStore vectorStore) {
         return args -> {
@@ -53,5 +53,5 @@ public class Main {
             vectorStore.add(documents);
             System.out.println("✅ " + documents.size() + " libros cargados en el vector store");
         };
-    }
+    }*/
 }
